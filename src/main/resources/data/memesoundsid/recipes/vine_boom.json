@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    }
+
+  },
+  "result": {
+    "item": "memesoundsid:vine_boom",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#c"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "memesoundsid:skull_trumpet",
+    "count": 1
+  }
+}

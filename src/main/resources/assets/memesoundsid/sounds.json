@@ -1,0 +1,146 @@
+{
+  "amogus_sound": {
+    "sounds": [
+      "memesoundsid:amogus_sound"
+    ]
+  },
+
+  "ouh_sound": {
+    "sounds": [
+      "memesoundsid:ouh_sound"
+    ]
+  },
+
+  "alert_sound": {
+    "sounds": [
+      "memesoundsid:alert_sound"
+    ]
+  },
+
+  "bonk_sound": {
+    "sounds": [
+      "memesoundsid:bonk_sound"
+    ]
+  },
+
+  "boom_sound": {
+    "sounds": [
+      "memesoundsid:boom_sound"
+    ]
+  },
+
+  "bruh_sound": {
+    "sounds": [
+      "memesoundsid:bruh_sound"
+    ]
+  },
+
+  "creeper_sound": {
+    "sounds": [
+      "memesoundsid:creeper_sound"
+    ]
+  },
+
+  "cs_bomb_sound": {
+    "sounds": [
+      "memesoundsid:cs_bomb_sound"
+    ]
+  },
+
+  "cs_sound": {
+    "sounds": [
+      "memesoundsid:cs_sound"
+    ]
+  },
+
+  "fbi_sound": {
+    "sounds": [
+      "memesoundsid:fbi_sound"
+    ]
+  },
+
+  "gnome_sound": {
+    "sounds": [
+      "memesoundsid:gnome_sound"
+    ]
+  },
+
+  "hamburger_sound": {
+    "sounds": [
+      "memesoundsid:hamburger_sound"
+    ]
+  },
+
+  "hehe_sound": {
+    "sounds": [
+      "memesoundsid:hehe_sound"
+    ]
+  },
+
+  "hit_sound": {
+    "sounds": [
+      "memesoundsid:hit_sound"
+    ]
+  },
+
+  "nioce_sound": {
+    "sounds": [
+      "memesoundsid:nioce_sound"
+    ]
+  },
+
+  "nope_sound": {
+    "sounds": [
+      "memesoundsid:nope_sound"
+    ]
+  },
+
+  "ping_sound": {
+    "sounds": [
+      "memesoundsid:ping_sound"
+    ]
+  },
+
+  "roblox_sound": {
+    "sounds": [
+      "memesoundsid:roblox_sound"
+    ]
+  },
+
+  "skull_trumpet_sound": {
+    "sounds": [
+      "memesoundsid:skull_trumpet_sound"
+    ]
+  },
+
+  "steam_sound": {
+    "sounds": [
+      "memesoundsid:steam_sound"
+    ]
+  },
+
+  "windows_error_sound": {
+    "sounds": [
+      "memesoundsid:windows_error_sound"
+    ]
+  },
+
+  "woo_sound": {
+    "sounds": [
+      "memesoundsid:woo_sound"
+    ]
+  },
+
+  "wow_sound": {
+    "sounds": [
+      "memesoundsid:wow_sound"
+    ]
+  },
+
+  "zombie_sound": {
+    "sounds": [
+      "memesoundsid:zombie_sound"
+    ]
+  }
+
+}

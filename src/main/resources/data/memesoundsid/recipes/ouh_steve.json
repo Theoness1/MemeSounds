@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "result": {
+    "item": "memesoundsid:ouh_steve",
+    "count": 1
+  }
+}

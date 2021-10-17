@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "P"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:red_dye"
+    },
+    "P": {
+      "item": "minecraft:pink_dye"
+    }
+  },
+  "result": {
+    "item": "memesoundsid:gnome",
+    "count": 1
+  }
+}

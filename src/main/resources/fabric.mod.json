@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "memesoundsid",
+  "version": "${version}",
+
+  "name": "MemeSounds",
+  "description": "Mod adds new memes items with funny sounds",
+  "authors": [
+    "theone_ss"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/members/theone_ss",
+    "sources": "https://www.curseforge.com/minecraft/mc-mods/memesounds-fabric"
+  },
+
+  "license": "MIT",
+  "icon": "assets/memesoundsid/preweisounme.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ru.theone_ss.memesounds.MemeSounds"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric",
+    "another-mod2": "https://www.curseforge.com/minecraft/mc-mods/food-pluss",
+    "another-mod3": "https://www.curseforge.com/minecraft/mc-mods/pelmen-fabric"
+  }
+}

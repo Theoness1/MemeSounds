@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#L"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "L": {
+      "item": "minecraft:lever"
+    }
+  },
+  "result": {
+    "item": "memesoundsid:windowsxperror",
+    "count": 1
+  }
+}

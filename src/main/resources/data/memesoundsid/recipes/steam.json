@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#i"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:black_concrete"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "memesoundsid:steam",
+    "count": 1
+  }
+}

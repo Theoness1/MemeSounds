@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#RJ"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:coal"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "J": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "result": {
+    "item": "memesoundsid:ping",
+    "count": 1
+  }
+}

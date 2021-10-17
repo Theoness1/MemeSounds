@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "C"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "item": "minecraft:chicken"
+    }
+  },
+  "result": {
+    "item": "memesoundsid:hehe_boy",
+    "count": 1
+  }
+}

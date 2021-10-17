@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather_chestplate"
+    },
+    "W": {
+      "item": "minecraft:wooden_sword"
+    }
+  },
+  "result": {
+    "item": "memesoundsid:woo",
+    "count": 1
+  }
+}

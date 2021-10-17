@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "B"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:yellow_wool"
+    },
+    "B": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "item": "memesoundsid:oof",
+    "count": 1
+  }
+}

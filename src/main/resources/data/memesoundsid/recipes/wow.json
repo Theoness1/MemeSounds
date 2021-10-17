@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#P#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:pink_dye"
+    },
+    "P": {
+      "item": "minecraft:pink_wool"
+    }
+  },
+  "result": {
+    "item": "memesoundsid:wow",
+    "count": 1
+  }
+}
