@@ -54,8 +54,30 @@ public class MemeSoundsRegistry {
     public static SoundEvent WOO_SOUND_EVENT = new SoundEvent(WOO_SOUND_ID);
     public static final Identifier ZOMBIE_SOUND_ID = new Identifier("memesoundsid:zombie_sound");
     public static SoundEvent ZOMBIE_SOUND_EVENT = new SoundEvent(ZOMBIE_SOUND_ID);
-
-
+    public static final Identifier AWMAN_SOUND_ID = new Identifier("memesoundsid:awman_sound");
+    public static SoundEvent AWMAN_SOUND_EVENT = new SoundEvent(AWMAN_SOUND_ID);
+    public static final Identifier BUTTON_SOUND_ID = new Identifier("memesoundsid:button_sound");
+    public static SoundEvent BUTTON_SOUND_EVENT = new SoundEvent(BUTTON_SOUND_ID);
+    public static final Identifier DALADNO_SOUND_ID = new Identifier("memesoundsid:daladno_sound");
+    public static SoundEvent DALADNO_SOUND_EVENT = new SoundEvent(DALADNO_SOUND_ID);
+    public static final Identifier DEMOTIVATOR_SOUND_ID = new Identifier("memesoundsid:demotivator_sound");
+    public static SoundEvent DEMOTIVATOR_SOUND_EVENT = new SoundEvent(DEMOTIVATOR_SOUND_ID);
+    public static final Identifier GOOSE_SOUND_ID = new Identifier("memesoundsid:goose_sound");
+    public static SoundEvent GOOSE_SOUND_EVENT = new SoundEvent(GOOSE_SOUND_ID);
+    public static final Identifier HAHA_SOUND_ID = new Identifier("memesoundsid:haha_sound");
+    public static SoundEvent HAHA_SOUND_EVENT = new SoundEvent(HAHA_SOUND_ID);
+    public static final Identifier KNUCKLES_SOUND_ID = new Identifier("memesoundsid:knuckles_sound");
+    public static SoundEvent KNUCKLES_SOUND_EVENT = new SoundEvent(KNUCKLES_SOUND_ID);
+    public static final Identifier MINECRAAFT_SOUND_ID = new Identifier("memesoundsid:minecraaft_sound");
+    public static SoundEvent MINECRAAFT_SOUND_EVENT = new SoundEvent(MINECRAAFT_SOUND_ID);
+    public static final Identifier OMNOM_SOUND_ID = new Identifier("memesoundsid:omnom_sound");
+    public static SoundEvent OMNOM_SOUND_EVENT = new SoundEvent(OMNOM_SOUND_ID);
+    public static final Identifier POVEZLO_SOUND_ID = new Identifier("memesoundsid:povezlo_sound");
+    public static SoundEvent POVEZLO_SOUND_EVENT = new SoundEvent(POVEZLO_SOUND_ID);
+    public static final Identifier PROBITIE_SOUND_ID = new Identifier("memesoundsid:probitie_sound");
+    public static SoundEvent PROBITIE_SOUND_EVENT = new SoundEvent(PROBITIE_SOUND_ID);
+    public static final Identifier TYLORMACHINEGUN_SOUND_ID = new Identifier("memesoundsid:tylormachinegun_sound");
+    public static SoundEvent TYLORMACHINEGUN_SOUND_EVENT = new SoundEvent(TYLORMACHINEGUN_SOUND_ID);
 
     public static void reg_sounds() {
 
@@ -83,7 +105,18 @@ public class MemeSoundsRegistry {
         Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.WOO_SOUND_ID, WOO_SOUND_EVENT);
         Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.WOW_SOUND_ID, WOW_SOUND_EVENT);
         Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.ZOMBIE_SOUND_ID, ZOMBIE_SOUND_EVENT);
-
+        Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.AWMAN_SOUND_ID, AWMAN_SOUND_EVENT);
+        Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.BUTTON_SOUND_ID, BUTTON_SOUND_EVENT);
+        Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.DALADNO_SOUND_ID, DALADNO_SOUND_EVENT);
+        Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.DEMOTIVATOR_SOUND_ID, DEMOTIVATOR_SOUND_EVENT);
+        Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.GOOSE_SOUND_ID, GOOSE_SOUND_EVENT);
+        Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.HAHA_SOUND_ID, HAHA_SOUND_EVENT);
+        Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.KNUCKLES_SOUND_ID, KNUCKLES_SOUND_EVENT);
+        Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.MINECRAAFT_SOUND_ID, MINECRAAFT_SOUND_EVENT);
+        Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.OMNOM_SOUND_ID, OMNOM_SOUND_EVENT);
+        Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.POVEZLO_SOUND_ID, POVEZLO_SOUND_EVENT);
+        Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.PROBITIE_SOUND_ID, PROBITIE_SOUND_EVENT);
+        Registry.register(Registry.SOUND_EVENT, MemeSoundsRegistry.TYLORMACHINEGUN_SOUND_ID, TYLORMACHINEGUN_SOUND_EVENT);
 
     }
 

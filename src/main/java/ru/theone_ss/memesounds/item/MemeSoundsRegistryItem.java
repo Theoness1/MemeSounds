@@ -33,7 +33,18 @@ public class MemeSoundsRegistryItem {
     public static final Item WOO_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.WOO_SOUND_EVENT);
     public static final Item WOW_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.WOW_SOUND_EVENT);
     public static final Item ZOMBIE_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.ZOMBIE_SOUND_EVENT);
-
+    public static final Item AWMAN_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.AWMAN_SOUND_EVENT);
+    public static final Item BUTTON_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.BUTTON_SOUND_EVENT);
+    public static final Item DALADNO_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.DALADNO_SOUND_EVENT);
+    public static final Item DEMOTIVATOR_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.DEMOTIVATOR_SOUND_EVENT);
+    public static final Item GOOSE_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.GOOSE_SOUND_EVENT);
+    public static final Item HAHA_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.HAHA_SOUND_EVENT);
+    public static final Item KNUCKLES_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.KNUCKLES_SOUND_EVENT);
+    public static final Item MINECRAAFT_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.MINECRAAFT_SOUND_EVENT);
+    public static final Item OMNOM_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.OMNOM_SOUND_EVENT);
+    public static final Item POVEZLO_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.POVEZLO_SOUND_EVENT);
+    public static final Item PROBITIE_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.PROBITIE_SOUND_EVENT);
+    public static final Item TYLORMACHINEGUN_ITEM = new MemeSoundsItem(new FabricItemSettings().group(MemeSounds.MEME_SOUNDS_GROUP), MemeSoundsRegistry.TYLORMACHINEGUN_SOUND_EVENT);
 
     public static void reg_items() {
 
@@ -61,7 +72,18 @@ public class MemeSoundsRegistryItem {
         Registry.register(Registry.ITEM, new Identifier("memesoundsid", "woo"), WOO_ITEM);
         Registry.register(Registry.ITEM, new Identifier("memesoundsid", "wow"), WOW_ITEM);
         Registry.register(Registry.ITEM, new Identifier("memesoundsid", "zombie"), ZOMBIE_ITEM);
-
+        Registry.register(Registry.ITEM, new Identifier("memesoundsid", "awman"), AWMAN_ITEM);
+        Registry.register(Registry.ITEM, new Identifier("memesoundsid", "button"), BUTTON_ITEM);
+        Registry.register(Registry.ITEM, new Identifier("memesoundsid", "daladno"), DALADNO_ITEM);
+        Registry.register(Registry.ITEM, new Identifier("memesoundsid", "demotivator"), DEMOTIVATOR_ITEM);
+        Registry.register(Registry.ITEM, new Identifier("memesoundsid", "goose"), GOOSE_ITEM);
+        Registry.register(Registry.ITEM, new Identifier("memesoundsid", "haha"), HAHA_ITEM);
+        Registry.register(Registry.ITEM, new Identifier("memesoundsid", "knuckles"), KNUCKLES_ITEM);
+        Registry.register(Registry.ITEM, new Identifier("memesoundsid", "minecraaft"), MINECRAAFT_ITEM);
+        Registry.register(Registry.ITEM, new Identifier("memesoundsid", "omnom"), OMNOM_ITEM);
+        Registry.register(Registry.ITEM, new Identifier("memesoundsid", "povezlo"), POVEZLO_ITEM);
+        Registry.register(Registry.ITEM, new Identifier("memesoundsid", "probitie"), PROBITIE_ITEM);
+        Registry.register(Registry.ITEM, new Identifier("memesoundsid", "tylormachinegun"), TYLORMACHINEGUN_ITEM);
 
     }
 }

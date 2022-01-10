@@ -141,6 +141,78 @@
     "sounds": [
       "memesoundsid:zombie_sound"
     ]
+  },
+
+  "awman_sound": {
+    "sounds": [
+      "memesoundsid:awman_sound"
+    ]
+  },
+
+  "button_sound": {
+    "sounds": [
+      "memesoundsid:button_sound"
+    ]
+  },
+
+  "daladno_sound": {
+    "sounds": [
+      "memesoundsid:daladno_sound"
+    ]
+  },
+
+  "demotivator_sound": {
+    "sounds": [
+      "memesoundsid:demotivator_sound"
+    ]
+  },
+
+  "goose_sound": {
+    "sounds": [
+      "memesoundsid:goose_sound"
+    ]
+  },
+
+  "haha_sound": {
+    "sounds": [
+      "memesoundsid:haha_sound"
+    ]
+  },
+
+  "knuckles_sound": {
+    "sounds": [
+      "memesoundsid:knuckles_sound"
+    ]
+  },
+
+  "minecraaft_sound": {
+    "sounds": [
+      "memesoundsid:minecraaft_sound"
+    ]
+  },
+
+  "omnom_sound": {
+    "sounds": [
+      "memesoundsid:omnom_sound"
+    ]
+  },
+
+  "povezlo_sound": {
+    "sounds": [
+      "memesoundsid:povezlo_sound"
+    ]
+  },
+
+  "probitie_sound": {
+    "sounds": [
+      "memesoundsid:probitie_sound"
+    ]
+  },
+
+  "tylormachinegun_sound": {
+    "sounds": [
+      "memesoundsid:tylormachinegun_sound"
+    ]
   }
 
 }

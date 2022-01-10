@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#AC",
+    "BYP"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "A": {
+      "item": "minecraft:apple"
+    },
+    "C": {
+      "item": "minecraft:cooked_cod"
+    },
+    "B": {
+      "item": "minecraft:bread"
+    },
+    "Y": {
+      "item": "minecraft:carrot"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    }
+  },
+  "result": {
+    у"item": "memesoundsid:daladno",
+    "count": 1
+  }
+}

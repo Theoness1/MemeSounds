@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "R",
+    "I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "R": {
+      "item": "minecraft:red_wool"
+    },
+    "I": {
+      "item": "minecraft:iron_boots"
+    }
+  },
+  "result": {
+    "item": "memesoundsid:knuckles",
+    "count": 1
+  }
+}

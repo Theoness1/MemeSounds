@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "W"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:black_dye"
+    },
+    "W": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "memesoundsid:demotivator",
+    "count": 1
+  }
+}

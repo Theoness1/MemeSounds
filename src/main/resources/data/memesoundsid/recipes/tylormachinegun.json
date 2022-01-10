@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bow"
+    }
+  },
+  "result": {
+    "item": "memesoundsid:tylormachinegun",
+    "count": 1
+  }
+}
