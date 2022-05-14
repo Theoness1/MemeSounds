@@ -35,5 +35,9 @@
   "item.memesoundsid.omnom": "OmNom",
   "item.memesoundsid.povezlo": "Povezlo",
   "item.memesoundsid.probitie": "Probitie",
-  "item.memesoundsid.tylormachinegun": "Tylor"
+  "item.memesoundsid.tylormachinegun": "Tylor",
+
+  "item.memesoundsid.fake_diamond": "Diamond",
+  "item.memesoundsid.fake_diamond_sword": "Diamond sword",
+  "item.memesoundsid.meme_book": "Meme book"
 }

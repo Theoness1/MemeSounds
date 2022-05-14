@@ -35,5 +35,9 @@
   "item.memesoundsid.omnom": "OmNom",
   "item.memesoundsid.povezlo": "Повезло",
   "item.memesoundsid.probitie": "Пробитие",
-  "item.memesoundsid.tylormachinegun": "Tylor"
+  "item.memesoundsid.tylormachinegun": "Tylor",
+
+  "item.memesoundsid.fake_diamond": "Алмаз",
+  "item.memesoundsid.fake_diamond_sword": "Алмазный меч",
+  "item.memesoundsid.meme_book": "Книжка мемов"
 }

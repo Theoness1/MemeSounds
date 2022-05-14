@@ -1,10 +1,11 @@
-package ru.theone_ss.memesounds.item;
+package ru.theone_ss.memesounds.itemregistry;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 import ru.theone_ss.memesounds.MemeSounds;
+import ru.theone_ss.memesounds.item.MemeSoundsItem;
 import ru.theone_ss.memesounds.soundregistry.MemeSoundsRegistry;
 
 public class MemeSoundsRegistryItem {

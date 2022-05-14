@@ -5,7 +5,8 @@ import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.Identifier;
-import ru.theone_ss.memesounds.item.MemeSoundsRegistryItem;
+import ru.theone_ss.memesounds.itemregistry.MemeSoundsRegistryItem;
+import ru.theone_ss.memesounds.itemregistry.MemeItemsRegistry;
 import ru.theone_ss.memesounds.soundregistry.MemeSoundsRegistry;
 
 public class MemeSounds implements ModInitializer {
@@ -15,11 +16,16 @@ public class MemeSounds implements ModInitializer {
 			.icon(() -> new ItemStack(MemeSoundsRegistryItem.AMOGUS_ITEM))
 			.build();
 
+
 	@Override
 	public void onInitialize() {
 
 		MemeSoundsRegistryItem.reg_items();
 
 		MemeSoundsRegistry.reg_sounds();
+
+		MemeItemsRegistry.reg_meme_items();
+
+
 	}
 }
