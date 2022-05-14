@@ -3,18 +3,18 @@
   "id": "memesoundsid",
   "version": "${version}",
 
-  "name": "MemeSounds",
-  "description": "Mod adds new memes items with funny sounds",
+  "name": "Stransus World",
+  "description": "Mod adds a lot of funny items, buildings, etc.",
   "authors": [
     "theone_ss"
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/members/theone_ss",
-    "sources": "https://www.curseforge.com/minecraft/mc-mods/memesounds-fabric"
+    "sources": "https://www.curseforge.com/minecraft/mc-mods/stransusworld-fabric"
   },
 
   "license": "MIT",
-  "icon": "assets/memesoundsid/preweisounme.png",
+  "icon": "assets/memesoundsid/prewei2v.png",
 
   "environment": "client",
   "entrypoints": {
