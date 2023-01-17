@@ -1,6 +1,6 @@
 # Sus World
 
-<img align="right" width="64" src="src/main/resources/assets/memesoundsid/prewei2v.png">
+<img align="right" width="160" src="src/main/resources/assets/memesoundsid/prewei2v.png">
 
 [![CurseForge Downloads](https://cf.way2muchnoise.eu/full_537640_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/susworld-fabric)
 [![Minecraft Versions](https://cf.way2muchnoise.eu/versions/537640.svg)](https://www.curseforge.com/minecraft/mc-mods/susworld-fabric)
